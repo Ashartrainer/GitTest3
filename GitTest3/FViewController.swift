@@ -9,10 +9,12 @@ import UIKit
 
 class ViewController: UIViewController {
 //first change
+    //remote changes
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("new msg added")
+        print("I am on remote")
     }
 
 
